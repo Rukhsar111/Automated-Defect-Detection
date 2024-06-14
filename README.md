@@ -11,20 +11,17 @@ This project aims to develop an AI-based defect detection system capable of iden
 - Supports multiple types of defects detection
 - High accuracy and reliability
 - Easy to integrate into existing systems
-- Scalable for large-scale manufacturing environments
-
+- Scalable for large-scale manufacturing environments 
+ 
 
 ## Generated-Plots:
 
 # Defected
-![Figure_1](https://github.com/Rukhsar111/Automated-Defect-Detection/assets/54540404/520ec8ba-92c4-4d81-a9a7-8961e7e0d6d8)
+![Figure_1](https://github.com/Rukhsar111/Automated-Defect-Detection/assets/54540404/520ec8ba-92c4-4d81-a9a7-8961e7e0d6d8)   ![bad](https://github.com/Rukhsar111/Automated-Defect-Detection/assets/54540404/7a1cfd9c-c0ce-40a3-b4f0-d80175a85766)
 
-
-![defected](https://github.com/Rukhsar111/Automated-Defect-Detection/assets/54540404/ac0a3796-8641-438d-9478-1b90ef845851)
 
 # Not Defected
 ![ok](https://github.com/Rukhsar111/Automated-Defect-Detection/assets/54540404/54ce46b2-a3fd-4c00-94f5-67f4fef652e9)
-
 
 
 
@@ -41,10 +38,6 @@ To install and run the defect detection system locally, follow these steps:
 4. Review the results and take appropriate action based on the detected defects.
 
 
-
-
-
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
@@ -52,4 +45,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 - This project was inspired by the need for automated defect detection in manufacturing processes.
-- We thank the open-source community for their invaluable contributions to the libraries and tools used in this project.
+
